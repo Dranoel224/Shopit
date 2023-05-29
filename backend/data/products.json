@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Sandisk ultra 128GB SDXC UHS-H Memory Card up to 80MB/$",
+        "price": "45.89",
+        "description": "ultra fast cards (2) to take better pictures and",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "products/tzfsnrli3szrdnb4jgge",
+            "url": "https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fiziway.cm%2Fsandisk-cle-usb-cruzer-blade-16-go-noir&psig=AOvVaw0vl3GCBQBSIh50GhbpurZz&ust=1682297804851000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjJztLivv4CFQAAAAAdAAAAABAE"
+        }],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": "50",
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "CAN USB FD Adapter ()GC-CAN-USB-FD",
+        "price": "315.00",
+        "description": "Monitor a CAN network, write a CAN program and co",
+        "ratings": "1.65",
+        "images": [{
+            "public_id": "products/l2bd3hh8dds1cxstuuz",
+            "url": "https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FCAN-USB-FD-Adapter-GC-CAN-USB-FD%2Fdp%2FB078VQ37YY&psig=AOvVaw2YWCKuPYRonsFwlI2RWQhg&ust=1682297882891000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjI9Pbivv4CFQAAAAAdAAAAABAE"
+        }],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": "50",
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "CHARMOUNT Full motion TV Wall Mount Swivel",
+        "price": "26.99",
+        "description": "Monitor a CAN network, write a CAN program and co",
+        "ratings": "1.65",
+        "images": [{
+            "public_id": "products/l2bd3hh8dds1cxstuuz",
+            "url": "https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FCHARMOUNT-Bracket-Monitor-400x400mm-Articulating%2Fdp%2FB083LW67RT&psig=AOvVaw0o60SQbDQkywPUesTR3Sr7&ust=1682298027760000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDx4Lvjvv4CFQAAAAAdAAAAABAE"
+        }],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": "50",
+        "numOfReviews": 32,
+        "reviews": []
+    }
+]
